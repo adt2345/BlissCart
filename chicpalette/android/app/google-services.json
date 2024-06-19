@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "657647465444",
+    "project_id": "chicpalette-8dfc2",
+    "storage_bucket": "chicpalette-8dfc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657647465444:android:0e60bcc21730081af3cdf1",
+        "android_client_info": {
+          "package_name": "com.example.chicpalette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657647465444-r0gnmpt5nqnu9dv3n9u9jnimkaos00at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chicpalette",
+            "certificate_hash": "d21a4059192fd1c662a317a6c145851bd28466b3"
+          }
+        },
+        {
+          "client_id": "657647465444-ijd8qmagltto17bjhb350ta3ibjinmu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVui0lqPXvKOAMsMXJlVTZ3HNBUJmHXx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657647465444-ijd8qmagltto17bjhb350ta3ibjinmu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
